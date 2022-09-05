@@ -9,3 +9,8 @@
 <br> 
 Can be run with 
 `mvn clean test`
+
+## ToDos
+- [x] Actually put into GH repo
+- [x] Add POM
+- [ ] Add github actions
