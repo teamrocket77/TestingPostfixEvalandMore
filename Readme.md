@@ -13,4 +13,4 @@ Can be run with
 ## ToDos
 - [x] Actually put into GH repo
 - [x] Add POM
-- [ ] Add github actions
+- [x] Add github actions
